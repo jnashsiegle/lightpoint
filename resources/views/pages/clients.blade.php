@@ -23,13 +23,13 @@
                <div class = "row text-center">
                	<div class = "hidden-sm-down col-md-6">
                          <figure>
-                                   <img class = "cardIntro img-responsive" src = "/images/tech" alt = "Situational Classroom">
+                                   <img class = "cardIntro img-responsive" src = "/images/tech.jpg" alt = "Situational Classroom">
                                    <figcaption> Situational Classroom</figcaption></figure>
                                    <span><small>In-Process</small></span>
                	</div><!-- end col-md-6 -->
                	<div class = "hidden-sm-down col-md-6">
                          <figure>
-                              <img class = "cardIntro img-responsive" src = "https://placeimg.com/400/230/arch" alt = "Tree Missions">
+                              <img class = "cardIntro img-responsive" src = "/images/arch.jpg" alt = "Tree Missions">
                               <figcaption>Tree Missions</figcaption></figure>
                               <span><small>In-Process</small></span>
                	</div><!--end co;l-md-6 -->
