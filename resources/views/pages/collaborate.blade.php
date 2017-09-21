@@ -3,7 +3,7 @@
 		<div class = "colLink cardIntro">
 			<a href = "http://zebrame.club" target = "_blank">
 			<figure>
-			<img class = "img-fluid" src = "../images/zebraLogo.jpeg" alt = "zebrame.club">
+			<img class = "img-fluid" src = "../images/zebraLogo.jpg" alt = "zebrame.club">
 			<figcaption class = "text-center">Internet Marketing</figcaption>
 			</figure>
 			</a>
@@ -12,7 +12,7 @@
 		<div class = "colLink cardIntro">
 			<a href = "https://dkdesigns26.wixsite.com/dkdesign" target = "_blank">
 			<figure>
-			<img class = "img-fluid" src = "../images/dkLogo.jpeg" alt = "DK Designs">
+			<img class = "img-fluid" src = "../images/dkLogo.jpg" alt = "DK Designs">
 			<figcaption class = "text-center">DK Designs</figcaption>
 			</figure>
 			</a>
