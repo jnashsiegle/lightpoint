@@ -6,8 +6,7 @@
         <!--Set Viewport for Responsiveness-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>@yield('title')</title>
-        <meta name="description" content="Web Development Agency Specializing in Developing Websites and Web Applications for Non-Profits, Charities, Ministries, Small Business and Individuals using Personalized Attention, Custom Design, Custom Development and Custom Pricing.">
-        <meta name = "author" content = "Jana Nash-Siegle">
+        <meta name="description" content="We Develop Sites & Apps By Using Personalized Attention, Custom Design, Custom Development and Custom Pricing. Non-Profit Specialist.">
         <link rel="canonical" href="http://lightpointdev.com/">
         <!--favicon-->
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/png">
