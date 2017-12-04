@@ -1,7 +1,8 @@
 <nav class = "navbar navbar-default">
     <div class = "container-fluid">
         <header class = "navbar-header">
-            <a href="#"><img class = "navbar-brand" src = "/images/lightpointLogo.svg" alt = "Brand"></a>
+            <a href="#"><img class = "navbar-brand" src = "/images/lightpointLogo.png" alt = "Brand">
+              <p class = "navbar-text">LightPoint Development</p></a>
                 <ul class="navbar-nav pull-right">
                     <li class = "nav-item">
                       <a class = "nav-link" href="#" data-toggle="modal" data-target="#login-modal">Client Log In</a>
