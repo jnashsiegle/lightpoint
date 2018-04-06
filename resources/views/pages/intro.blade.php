@@ -30,9 +30,8 @@
     <div class = "row-fluid">
     <div class="col-xs-12">
         <h4>What we can do for you.</h4>
-        <p>No longer do you need to settle for the common cookie cutter templated sites that don’t quite fit your vision and even your budget.  Working closely with you; your message, cause, idea or services will be broadcast around the world with a custom made web site / application.
+        <p>Need a website?  We are here for you.  Building and maintaining even a simple website can be a lot of work and it can be overwhelming; but... it doesn't need to be.  We are here to help you bring you website alive.  Working with a methodology of K. I. S. S. (Keep it simple) we will work with you for your perfect solution.  We don't automatically lock you into a maintenance contract if you don't want it or need it.  Want to host it on WordPress or SquareSpace, we can do it for you.  Want something unique and special for yourself?  We are up to the task!.  With pricing that works for any budget we will work with you to bring your vision, alive!
         </p>
-        <p>Don’t settle for heavy websites that are slow or pay for options you don’t need, get your custom site <a class = "smoothScroll" href = "#contact"><span id = "now">now</span></a>.</p>
     </div>
     </div>
 
