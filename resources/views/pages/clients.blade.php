@@ -23,16 +23,11 @@
                <div class = "row text-center">
                	<div class = "hidden-sm-down col-md-6">
                          <figure>
-                                   <img class = "cardIntro img-responsive" src = "/images/tech.jpg" alt = "Situational Classroom">
-                                   <figcaption> Situational Classroom</figcaption></figure>
-                                   <span><small>In-Process</small></span>
+                                   <img class = "cardIntro img-responsive" src = "/images/wall.jpg" alt = "Situational Classroom">
+                                   <figcaption> Defensive Protocols</figcaption></figure>
+
                	</div><!-- end col-md-6 -->
-               	<div class = "hidden-sm-down col-md-6">
-                         <figure>
-                              <img class = "cardIntro img-responsive" src = "/images/arch.jpg" alt = "Tree Missions">
-                              <figcaption>Tree Missions</figcaption></figure>
-                              <span><small>In-Process</small></span>
-               	</div><!--end co;l-md-6 -->
+
                </div><!-- end row text-center -->
           </div><!-- end well well-large-->
      </div><!--container -->
