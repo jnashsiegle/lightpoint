@@ -1,8 +1,7 @@
 <div id = "intro" class = "container">
     <ul class = "hidden-sm-down">
-        <li class = "h4"> Simple Brochure Sites ~</li>
-        <li class = "h4">Blogs/CMS ~</li>
-        <li class = "h4">Content Management Systems</li>
+        <li class = "h4"> Custom Design ~</li>
+        <li class = "h4">WordPress / SquareSpace ~</li>
 
     </ul>
 
